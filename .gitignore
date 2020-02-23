@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+.ideia/
+soma.c
+torre.c
+lista.c
+
+
+=======
+.idea
+soma.c
+torre.c
+lista.c
+>>>>>>> Funcionalidade1
+>>>>>>> 25f41891efb32b7c1dfe685562516a32ec0df257
