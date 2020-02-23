@@ -1,1 +1,2 @@
 Alteração no arquivo.txt
+Teste de merge com o master
